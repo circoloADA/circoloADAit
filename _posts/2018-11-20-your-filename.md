@@ -1,5 +1,8 @@
 ---
 published: false
+layout: post
+title: Jekyll Doc Theme is published!
+author: aksakalli
 ---
 ## A New Post
 
