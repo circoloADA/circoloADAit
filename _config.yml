@@ -48,7 +48,7 @@ defaults:
       type: "WebPage"
 
 collections:
-  docs:
+  info:
     permalink: /:collection/:path/
     output: true
   posts:
