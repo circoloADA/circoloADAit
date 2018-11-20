@@ -1,5 +1,5 @@
 ---
-title: Welcome
+title: Chi è ADA
 permalink: /info/home/
 redirect_from: /info/index.html
 ---

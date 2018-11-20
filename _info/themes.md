@@ -1,5 +1,5 @@
 ---
-title: Themes
+title: Chi siamo
 permalink: /info/themes/
 ---
 

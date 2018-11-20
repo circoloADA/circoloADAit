@@ -1,5 +1,5 @@
 ---
-title: Customization
+title: Contatti
 permalink: /info/customization/
 ---
 
