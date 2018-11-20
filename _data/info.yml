@@ -1,11 +1,11 @@
-- title: Informazioni
-  info:
-    - home
-    - themes
-    - customization
+- title: Getting Started
+  docs:
+  - home
+  - themes
+  - customization
 
 - title: Examples
-  info:
+  docs:
   - cheatsheet
   - font-awesome
   - bootstrap
