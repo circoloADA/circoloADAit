@@ -40,9 +40,9 @@ defaults:
 
 - scope:
     path: _info
-    type: docs
+    type: info
   values:
-    layout: docs
+    layout: info
     sectionid: info
     seo:
       type: "WebPage"
