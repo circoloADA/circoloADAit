@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 title: Jekyll Doc Theme is published!
 author: aksakalli
