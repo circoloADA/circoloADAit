@@ -1,9 +1,8 @@
 # Site settings
 title: circolo ADA
-email: your-email@domain.com
+email: info@circoloada.it
 description: >
-  Jekyll Template for circolo ADA
-  providing documentation and blog post pages.
+  circolo ADA
 lang: en-US
 
 baseurl: "/" # the subpath of your site, e.g. /blog/
