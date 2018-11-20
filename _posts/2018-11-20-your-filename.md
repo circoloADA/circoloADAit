@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Jekyll Doc Theme is published!
+title: posttt
 author: aksakalli
 ---
 ![]({{site.baseurl}}/_posts/P1150001.JPG)![P1150001.JPG]({{site.baseurl}}/_posts/P1150001.JPG)
